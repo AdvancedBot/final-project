@@ -15,4 +15,4 @@
 ###### ![photo](https://github.com/Sam-songchen/final-project/blob/master/images/%E9%94%99%E8%AF%AF1.png)![](https://github.com/Sam-songchen/final-project/blob/master/images/%E9%94%99%E8%AF%AF2.png)
 
 ## Video or images demo
-#### ![photo](https://github.com/Sam-songchen/final-project/blob/master/images/2020-01-27%2011-52-46.mkv)
+#### [![photo](https://github.com/Sam-songchen/final-project/blob/master/bbb3484c31cf487f998fecef41c8547d_hd.jpg)](https://drive.google.com/open?id=1yFuwb7phFARFELMsKsdffOqRKhHvaxua)
