@@ -11,7 +11,7 @@
 
 ## Tradeoffs you made：
 #### ![photo](https://github.com/Sam-songchen/final-project/blob/master/images/evaluate.png)
-#### We can see that the accuracy rate is not 100%.When we open each label to see the details,we can see that there are some problems in the selection of pictures.We should be more careful when choosing pictures in the future.
+#### We can see that the accuracy rate is not 100%.When we open each label to see the details,we can see that there are some problems in the selection of pictures.We should be more careful when choosing pictures in the future.We can see that precision and recall reach their highest point,when the confidence comes to 0.5.
 ###### ![photo](https://github.com/Sam-songchen/final-project/blob/master/images/%E9%94%99%E8%AF%AF1.png)![](https://github.com/Sam-songchen/final-project/blob/master/images/%E9%94%99%E8%AF%AF2.png)
 
 ## Video and image: click the image to play the video.
