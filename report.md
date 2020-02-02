@@ -15,6 +15,3 @@
 
 ## Video and image: click the image to play the video.
 #### [![photo](https://github.com/Sam-songchen/final-project/blob/master/bbb3484c31cf487f998fecef41c8547d_hd.jpg)](https://drive.google.com/open?id=1yFuwb7phFARFELMsKsdffOqRKhHvaxua)
-###### ![404](https://github.com/Sam-songchen/final-project/blob/master/images/111.jpg)
-###### ![403](https://github.com/Sam-songchen/final-project/blob/master/images/222.jpg)
-###### ![402](https://github.com/Sam-songchen/final-project/blob/master/images/333.jpg)
